@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "AboutMe_45ffa2a6"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "AboutMe_45ffa2a6"
+        },
+        {
+            "type": "java",
             "name": "SobreMim2",
             "request": "launch",
             "mainClass": "SobreMim2",
